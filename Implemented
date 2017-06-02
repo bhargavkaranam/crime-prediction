@@ -1,0 +1,14 @@
+Implemented
+-Graph for Probability of multiple crimes happening in a given category
+-Graph between number of categories and probability of n crimes happening 
+-We notice that 1, 2 and >=3 - three separate graphs
+
+@Todo
+Additional clustering based on timestamp, time of day (more accuracy in prediction)
+Mine data according to holidays / working days
+Generate graphs based on holidays / working days and find peak times
+Generate economic crimes / normal crimes
+Prediction based on latitude and longitude - 
+->Log odds of a particular latitude and longitude appearing in a data set
+->Log odds of a particular crime happening at that latitude and longitude
+Heat map generation
